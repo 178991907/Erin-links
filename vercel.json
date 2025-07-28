@@ -12,8 +12,5 @@
       "source": "/api/(.*)",
       "destination": "/api/$1"
     }
-  ],
-  "env": {
-    "DATABASE_URL": "postgresql://neondb_owner:npg_Y8vtxIFQy7DP@ep-patient-hat-aefem1dj-pooler.c-2.us-east-2.aws.neon.tech/neondb?sslmode=require"
-  }
+  ]
 }
